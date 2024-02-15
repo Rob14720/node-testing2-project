@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+out/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodotools
+*.kate-swp
+*.kate-swp.*
+*.kate-ctags
+*.kate-swp.*
+*.kate-swp.*
+*.swp
+*~
+*.bak
+*.tmp
+*.tmp.*
+*.log
+*.log.*
+*.stackdump
+*.tmp
+*.tmp.*
+*.swp
+.DS_Store
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
